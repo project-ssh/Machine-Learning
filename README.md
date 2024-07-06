@@ -1,4 +1,4 @@
-# COntributions & Team Members
+# Contributions & Team Members
 - Sri Sethu Madhavan S
 - Harshavardhan M V
 - Shrihari A
