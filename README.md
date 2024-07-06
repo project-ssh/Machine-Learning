@@ -1,3 +1,8 @@
+# Contributions
+- Sri Sethu Madhavan S
+- Harshavardhan M V
+- Shrihari A
+
 # Introduction
   Phishing has emerged as a major problem in the rapidly changing digital 
 landscape as a result of the rise in internet usage. Phishing is the act of deceiving 
